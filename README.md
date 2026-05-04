@@ -1,6 +1,6 @@
 # MNIST Image Recognition — Assignment 4.1
 
-Small image recognition neural networks trained and evaluated on the [MNIST] handwritten digit dataset.
+Small image recognition neural networks trained and evaluated on the MNIST handwritten digit dataset.
 
 ## Overview
 
