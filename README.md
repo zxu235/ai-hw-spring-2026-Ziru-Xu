@@ -39,7 +39,7 @@ Each image is flattened to a 784-dimensional vector and passed through two hidde
 Input (784) → Linear(256) → ReLU → Linear(128) → ReLU → Output(10)
 ```
 
-### CNN (LeNet-style)
+### CNN
 Preserves spatial structure with two convolutional blocks followed by a fully-connected head:
 
 ```
